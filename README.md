@@ -17,7 +17,9 @@ Lab non terminé à partir de Heroku:
 - travis a été installe avec '''brew'''
 
 
-### Consignes=
+# Consignes
+
+
 # User API web application
 
 It is a basic NodeJS web application exposing REST API that creates and stores user parameters in [Redis database](https://redis.io/).
