@@ -8,4 +8,4 @@ script:
 - echo 'Starting'
 - npm install
 - echo 'Testing'
-- npm testgit
+- npm test
